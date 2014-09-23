@@ -2,7 +2,11 @@ Hello World
 1
 2
 
-<random>
+<<<<<<< HEAD
+<random HOTFIX>
+=======
+<random 21+1>
+>>>>>>> fix21
 <random2>
 <random3>
 <Are you kidding me ???>
@@ -16,6 +20,6 @@ testing branch stuffs.
 FOR HOT FIX
 
 DOING BRANCH STUFFS AGAIN
-ssh setup now :) cool
+
 
 3
